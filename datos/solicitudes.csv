@@ -1,0 +1,44 @@
+dni,nombre,apellido,fecha_nacimiento,grado,colegio_procedencia,doc_dni,doc_partida_nacimiento,doc_comprobante_pago,estado
+70000001,Carla,Flores,01/03/2013,1ro de secundaria,I.E. San Martin,si,si,no,aprobada
+70000002,Jose,Castro,01/03/2020,Inicial 5 anios,Colegio La Union,si,no,no,observada
+70000003,Luis,Flores,01/03/2020,Inicial 5 anios,Nuevo ingreso (sin colegio previo),si,si,si,pagada
+70000004,Valeria,Torres,01/03/2013,1ro de secundaria,I.E. San Martin,si,si,no,aprobada
+70000005,Maria,Quispe,01/03/2019,1ro de primaria,Colegio La Union,si,si,no,aprobada
+70000006,Luis,Mendoza,01/03/2019,1ro de primaria,Nuevo ingreso (sin colegio previo),si,si,no,aprobada
+70000007,Jorge,Mendoza,01/03/2020,Inicial 5 anios,I.E. Santa Rosa,si,si,si,lista_constancia
+70000008,Sofia,Rojas,01/03/2020,Inicial 5 anios,I.E. Santa Rosa,si,no,no,observada
+70000009,Jorge,Castro,01/03/2013,1ro de secundaria,I.E. San Martin,si,si,no,aprobada
+70000010,Luis,Vega,01/03/2013,1ro de secundaria,Nuevo ingreso (sin colegio previo),si,si,no,aprobada
+70000011,Jorge,Quispe,01/03/2020,Inicial 5 anios,I.E. Santa Rosa,si,si,si,matriculado
+70000012,Carla,Rojas,01/03/2019,1ro de primaria,I.E. San Martin,si,si,no,aprobada
+70000013,Valeria,Flores,01/03/2013,1ro de secundaria,I.E. Santa Rosa,si,si,no,aprobada
+70000014,Maria,Mendoza,01/03/2020,Inicial 5 anios,Colegio La Union,si,si,no,aprobada
+70000015,Pedro,Mendoza,01/03/2019,1ro de primaria,I.E. San Martin,si,si,no,aprobada
+70000016,Diego,Quispe,01/03/2013,1ro de secundaria,I.E. Santa Rosa,si,si,no,aprobada
+70000017,Valeria,Lopez,01/03/2020,Inicial 5 anios,I.E. Santa Rosa,si,si,no,aprobada
+70000018,Pedro,Torres,01/03/2013,1ro de secundaria,I.E. Santa Rosa,si,si,no,pendiente
+70000019,Maria,Rojas,01/03/2020,Inicial 5 anios,I.E. San Martin,si,si,no,aprobada
+70000020,Sofia,Castro,01/03/2013,1ro de secundaria,Nuevo ingreso (sin colegio previo),si,si,no,pendiente
+70000021,Diego,Lopez,01/03/2019,1ro de primaria,I.E. Santa Rosa,si,si,no,aprobada
+70000022,Valeria,Vega,01/03/2013,1ro de secundaria,I.E. Santa Rosa,si,si,no,pendiente
+70000023,Ana,Huaman,01/03/2020,Inicial 5 anios,Nuevo ingreso (sin colegio previo),si,si,no,aprobada
+70000024,Ana,Lopez,01/03/2013,1ro de secundaria,Nuevo ingreso (sin colegio previo),si,si,no,lista_espera
+70000025,Valeria,Castro,01/03/2013,1ro de secundaria,I.E. San Martin,si,si,no,lista_espera
+70000026,Ana,Lopez,01/03/2020,Inicial 5 anios,Nuevo ingreso (sin colegio previo),si,si,no,aprobada
+70000027,Maria,Rojas,01/03/2013,1ro de secundaria,I.E. Santa Rosa,si,si,no,lista_espera
+70000028,Luis,Castro,01/03/2019,1ro de primaria,Nuevo ingreso (sin colegio previo),si,si,no,aprobada
+70000029,Valeria,Quispe,01/03/2020,Inicial 5 anios,I.E. San Martin,si,no,no,observada
+70000030,Valeria,Quispe,01/03/2013,1ro de secundaria,I.E. Santa Rosa,si,si,no,lista_espera
+70000031,Valeria,Flores,01/03/2013,1ro de secundaria,I.E. Santa Rosa,si,si,no,lista_espera
+70000032,Valeria,Huaman,01/03/2019,1ro de primaria,Nuevo ingreso (sin colegio previo),si,si,no,aprobada
+70000033,Jorge,Garcia,01/03/2020,Inicial 5 anios,I.E. San Martin,si,si,no,aprobada
+70000034,Jose,Garcia,01/03/2013,1ro de secundaria,I.E. San Martin,si,si,no,lista_espera
+70000035,Luis,Vega,01/03/2020,Inicial 5 anios,Colegio La Union,si,si,no,aprobada
+70000036,Pedro,Castro,01/03/2020,Inicial 5 anios,Colegio La Union,si,si,no,pendiente
+70000037,Jose,Torres,01/03/2020,Inicial 5 anios,I.E. Santa Rosa,si,si,no,pendiente
+70000038,Maria,Rojas,01/03/2019,1ro de primaria,Nuevo ingreso (sin colegio previo),si,si,no,aprobada
+70000039,Luis,Flores,01/03/2019,1ro de primaria,Colegio La Union,si,si,no,pendiente
+70000040,Carla,Huaman,01/03/2020,Inicial 5 anios,I.E. San Martin,si,si,no,pendiente
+70000041,Rosa,Paredes,01/03/2019,1ro de primaria,I.E. San Martin,si,si,no,pendiente
+70000042,Mateo,Ramos,01/03/2019,1ro de primaria,Colegio La Union,si,si,no,pendiente
+70000043,Lucia,Salas,01/03/2020,Inicial 5 anios,I.E. Santa Rosa,si,no,no,pendiente
